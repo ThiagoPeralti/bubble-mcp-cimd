@@ -1,0 +1,16 @@
+{
+  "client_id": "https://thiagoperalti.github.io/bubble-mcp-cimd/client-metadata.json",
+  "client_name": "Bubble MCP Bridge (ThiagoPeralti)",
+  "client_uri": "https://thiagoperalti.github.io/bubble-mcp-cimd/",
+  "redirect_uris": [
+    "http://127.0.0.1:48291/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
